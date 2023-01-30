@@ -155,7 +155,7 @@
         </ActivityAction>
       </uix:NApplicationCard.Body>
       <uix:NApplicationCard.TargetApp>
-        <uix:TargetApp Area="0, 0, 0, 0" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAABvSURBVFhH7dIxCsAgFIPhuvdSvW4vmfIGaQmxiL6ChQz/JMZvcANQWu3ngYx491kToIZm4v2aBKiBjPid6B8APs/MgE8BPTsGGGCAAQYYYIABawKyMmAYwBez4neiNQGRGpiJ92uvf0ANjcS7dygXoYaiN4nIeKoAAAAASUVORK5CYII=" InformativeScreenshot="01cbc894ae2d1a57aa38f3752c404db1.jpg" Selector="&lt;html app='chrome.exe' title='Amazon Interview Questions (2023) | Glassdoor' /&gt;" Title="Amazon Interview Questions (2023) | Glassdoor" Url="https://www.glassdoor.com/Interview/Tata-Consultancy-Services-Interview-Questions-E13461.htm" />
+        <uix:TargetApp Area="0, 0, 0, 0" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAABvSURBVFhH7dIxCsAgFIPhuvdSvW4vmfIGaQmxiL6ChQz/JMZvcANQWu3ngYx491kToIZm4v2aBKiBjPid6B8APs/MgE8BPTsGGGCAAQYYYIABawKyMmAYwBez4neiNQGRGpiJ92uvf0ANjcS7dygXoYaiN4nIeKoAAAAASUVORK5CYII=" InformativeScreenshot="01cbc894ae2d1a57aa38f3752c404db1.jpg" Selector="&lt;html app='chrome.exe' title='Amazon Interview Questions (2023) | Glassdoor' /&gt;" Title="Amazon Interview Questions (2023) | Glassdoor" Url="https://www.glassdoor.com/Interview/Wipro-Interview-Questions-E9936.htm" />
       </uix:NApplicationCard.TargetApp>
     </uix:NApplicationCard>
   </Sequence>
